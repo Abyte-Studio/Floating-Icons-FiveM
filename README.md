@@ -6,8 +6,6 @@ A floating icons script for QB/ESX/QBOX , the icons have a smooth animation and 
     README / GUIDE
 =
 
-Thank you for downloading and using this script ❤️
-I hope it helps you improve your server and make it more user-friendly.
 
 Below you will find a simple step-by-step guide explaining
 how to create and use your own custom icons.
@@ -91,8 +89,7 @@ IMPORTANT:
 -------------------------------------------------------------------
 ❤️ THANK YOU
 -------------------------------------------------------------------
-Thank you again for using this script.
-Feel free to modify it, improve it, or adapt it to your server.
+
 
 Enjoy and have fun! 🚀
 ===================================================================
