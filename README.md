@@ -11,6 +11,7 @@ I hope it helps you improve your server and make it more user-friendly.
 
 Below you will find a simple step-by-step guide explaining
 how to create and use your own custom icons.
+⚠️ This is purely visual and does not include any functionality linked to the icons. ⚠️
 
 -------------------------------------------------------------------
 📌 REQUIREMENTS
