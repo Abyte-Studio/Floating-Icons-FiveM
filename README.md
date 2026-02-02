@@ -1,10 +1,10 @@
 # Floating-Icons-FiveM
 A floating icons script for QB/ESX/QBOX , the icons have a smooth animation and With these icons you can mark locations that provide utilities or services.
 
-===============================================================
+=
     Floating Icons Script by Abyte Studio
     README / GUIDE
-===================================================================
+=
 
 Thank you for downloading and using this script ❤️
 I hope it helps you improve your server and make it more user-friendly.
