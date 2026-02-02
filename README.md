@@ -17,7 +17,7 @@ how to create and use your own custom icons.
 📌 WHATCH
 -------------------------------------------------------------------
 
-https://streamable.com/e/iytg9e?
+https://streamable.com/e/iytg9e
 
 
 -------------------------------------------------------------------
